@@ -1,0 +1,1 @@
+este es un sistema que espero terminar xd lo que se espera es que como su no,mbre indica sea un sistema diselado para ser un inventario de ventas este es el inicio y aunque paresca tosco de centavo en sentavo se hace el dolar en este caso de linea de codio en linea se hara este sistema xd en fin, este es un sistema de inventario de ventas que sera un inventario de ventas.
